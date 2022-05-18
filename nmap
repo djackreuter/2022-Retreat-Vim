@@ -1,0 +1,46 @@
+# Nmap 7.92 scan initiated Wed May 18 12:00:59 2022 as: nmap -sn -n -oN nmap_test 192.168.0.0/24
+Nmap scan report for 192.168.0.1
+Host is up (0.0047s latency).
+Nmap scan report for 192.168.0.43
+Host is up (0.11s latency).
+Nmap scan report for 192.168.0.44
+Host is up (0.13s latency).
+Nmap scan report for 192.168.0.78
+Host is up (0.14s latency).
+Nmap scan report for 192.168.0.79
+Host is up (0.15s latency).
+Nmap scan report for 192.168.0.80
+Host is up (0.19s latency).
+Nmap scan report for 192.168.0.85
+Host is up (0.15s latency).
+Nmap scan report for 192.168.0.229
+Host is up (0.00013s latency).
+Nmap scan report for 192.168.0.230
+Host is up (0.32s latency).
+Nmap scan report for 192.168.0.231
+Host is up (0.24s latency).
+Nmap scan report for 192.168.0.233
+Host is up (0.18s latency).
+Nmap scan report for 192.168.0.235
+Host is up (0.19s latency).
+Nmap scan report for 192.168.0.237
+Host is up (0.18s latency).
+Nmap scan report for 192.168.0.242
+Host is up (0.19s latency).
+Nmap scan report for 192.168.0.245
+Host is up (0.11s latency).
+Nmap scan report for 192.168.0.247
+Host is up (0.23s latency).
+Nmap scan report for 192.168.0.250
+Host is up (0.15s latency).
+Nmap scan report for 192.168.0.251
+Host is up (0.14s latency).
+Nmap scan report for 192.168.0.252
+Host is up (0.085s latency).
+Nmap scan report for 192.168.0.253
+Host is up (0.0054s latency).
+Nmap scan report for 192.168.0.254
+Host is up (0.22s latency).
+Nmap scan report for 192.168.0.241
+Host is up.
+# Nmap done at Wed May 18 12:01:03 2022 -- 256 IP addresses (22 hosts up) scanned in 3.92 seconds
