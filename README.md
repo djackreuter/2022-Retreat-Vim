@@ -45,6 +45,7 @@ In visual mode<br>
 `esc` exit insert mode<br>
 
 ### Editing Text
+`x` cut character under cursor<br>
 `dd` cut line<br>
 `cc` delete line and enter insert mode<br>
 `4dd` cut 4 lines below cursor<br>
