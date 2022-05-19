@@ -5,6 +5,7 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set showmatch
+"set number
 set hlsearch
 set wildmenu
 set wildmode=longest:list,full
